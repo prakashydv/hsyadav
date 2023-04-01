@@ -1,0 +1,4 @@
+baseURL = 'http://prakashydv.github.io/hsyadav'
+languageCode = 'en-us'
+title = 'H.S. Yadav'
+theme = 'ananke'
