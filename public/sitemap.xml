@@ -2,9 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://prakashydv.github.io/hsyadav/categories/</loc>
-  </url><url>
     <loc>http://prakashydv.github.io/hsyadav/</loc>
+    <lastmod>2023-04-05T20:10:32+05:30</lastmod>
+  </url><url>
+    <loc>http://prakashydv.github.io/hsyadav/post/</loc>
+    <lastmod>2023-04-05T20:10:32+05:30</lastmod>
+  </url><url>
+    <loc>http://prakashydv.github.io/hsyadav/post/0003-random-thoughts/</loc>
+    <lastmod>2023-04-05T20:10:32+05:30</lastmod>
+  </url><url>
+    <loc>http://prakashydv.github.io/hsyadav/post/0002-kaleje-ke-tukde/</loc>
+    <lastmod>2023-04-05T19:50:03+05:30</lastmod>
+  </url><url>
+    <loc>http://prakashydv.github.io/hsyadav/post/0001-honourable-parents/</loc>
+    <lastmod>2023-04-05T19:36:03+05:30</lastmod>
+  </url><url>
+    <loc>http://prakashydv.github.io/hsyadav/categories/</loc>
   </url><url>
     <loc>http://prakashydv.github.io/hsyadav/tags/</loc>
   </url>
